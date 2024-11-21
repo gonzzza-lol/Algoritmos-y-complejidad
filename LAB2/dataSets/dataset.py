@@ -60,4 +60,4 @@ def generador(n, nombre_archivo="datasets/dataset.txt"):
 
 # En caso de quere cambiar el numero de pruebas a realizar,
 # modificar el numero de la funcion de abajo
-generador(50)
+generador(10)
