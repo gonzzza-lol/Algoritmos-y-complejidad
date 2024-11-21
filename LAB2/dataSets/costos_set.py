@@ -4,10 +4,10 @@ import random
 mapIns = {}
 mapDel = {}
 
-fIns = open("datasets/cost_insert.txt", "w")
-fDel = open("datasets/cost_delete.txt", "w")
-fRep = open("datasets/cost_replace.txt", "w")
-fTrans = open("datasets/cost_transpose.txt", "w")
+fIns = open("cost_insert.txt", "w")
+fDel = open("cost_delete.txt", "w")
+fRep = open("cost_replace.txt", "w")
+fTrans = open("cost_transpose.txt", "w")
 
 
 for char in string.ascii_lowercase:
