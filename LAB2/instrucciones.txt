@@ -6,6 +6,8 @@ Instrucciones de uso
 1) Modifique el parámetro de la función generador del archivo dataset.py
 2) Ejecute el programa
 3) El archivo dataset.txt se modificará automáticamente en la carpeta dataSets
+4) Para el informe se hicieron leves ajustes adicionales al código para probar
+algunos casos, pero el código base hacer S1 y modificaciones es el mismo
 
 # Para correr el programa 
 1) Compile el archivo usando el comando make desde la carpeta LAB2
