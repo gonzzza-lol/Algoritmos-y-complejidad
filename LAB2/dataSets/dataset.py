@@ -49,7 +49,7 @@ def editString(s1, n):
         return res
 
 
-def generador(n, nombre_archivo="datasets/dataset.txt"):
+def generador(n, nombre_archivo="dataset.txt"):
     with open(nombre_archivo, "w") as archivo:
         for _ in range(n):
             longitud = random.randint(0, 10)
